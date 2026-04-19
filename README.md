@@ -3,8 +3,6 @@
 
 This contains everything you need to run your app locally.
 
-View your app in Google Antigravity: https://ai.studio/apps/8d7c23c9-5148-4c96-b1dc-4428b669f4fe
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
